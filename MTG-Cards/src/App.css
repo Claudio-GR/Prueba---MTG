@@ -1,0 +1,32 @@
+#root {
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+  background-color: rgba(0, 54, 0, 0.685);
+}
+
+.header_img{
+  size: 80%;
+}
+.header{
+  background-color: black;
+}
+
+.card{
+  background-color: white;
+  padding: 1rem;
+}
+.Color_Selector{
+  width: 20rem;
+  height: 2.5rem;
+  display: flex;
+  flex-direction: row;
+  margin: 1rem;
+}
+.interactive_elements{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: lightgoldenrodyellow;
+}
